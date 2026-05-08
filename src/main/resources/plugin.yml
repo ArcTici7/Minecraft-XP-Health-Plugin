@@ -1,0 +1,6 @@
+name: HighestLevelHealth
+version: 1.0
+main: com.vancouver.health.Main
+api-version: '1.21'
+author: YourName
+description: Sets max health based on the highest level a player has ever reached.
