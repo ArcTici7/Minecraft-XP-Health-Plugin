@@ -1,6 +1,6 @@
-name: HighestLevelHealth
+name: XPHearts
 version: 1.0
-main: com.vancouver.health.Main
-api-version: '26.1'
-author: ArcWire
-description: Sets max health based on the highest level a player has ever reached.
+main: com.vancouver.xphearts.Main
+api-version: '1.21'
+author: YourName
+description: Permanent health scaling for 26.1.2.
