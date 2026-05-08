@@ -1,6 +1,6 @@
 name: HighestLevelHealth
 version: 1.0
 main: com.vancouver.health.Main
-api-version: '26.1.2'
+api-version: '26.1'
 author: ArcWire
 description: Sets max health based on the highest level a player has ever reached.
