@@ -1,6 +1,11 @@
 name: XPHearts
-version: 1.0
+version: 1.1
 main: com.vancouver.xphearts.Main
 api-version: '1.21'
 author: YourName
-description: Permanent health scaling for 26.1.2.
+description: Permanent health scaling with reset command.
+commands:
+  hreset:
+    description: Resets your highest level record and max health.
+    usage: /hreset
+    permission: xphearts.reset
